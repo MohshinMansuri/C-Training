@@ -5,7 +5,7 @@ void main(){
     FILE *fptr; // Create File
     char name[200];
 
-    fptr = fopen("Filename.txt", "w");  // Open File
+    fptr = fopen("moh.txt", "w");  // Open File
     printf("Enter The Name : ");
     scanf("%s", &name);
 
